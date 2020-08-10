@@ -1,6 +1,6 @@
 # Exercice 01
 
-El ejercicio de este tema va a consistir en subir los ejercicios del tema de dorcker (el Ejercicio 01 y el 02) a github. Tendran que cumplir con lo siguiente.
+El ejercicio de este tema va a consistir en subir los ejercicios del tema de docker (el Ejercicio 01 y el 02) a github. Tendran que cumplir con lo siguiente.
 
 Condiciones:
 
